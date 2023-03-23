@@ -1,6 +1,8 @@
 # TCP and UDP Client-Server-in-C
 Small networking client and server project in C.
 
+readFile to send info from the TCP server to client. Feel free to fork and play with the code. 
+
 Usage :
   TCP:
     gcc GV_TCPServer.c -o GV_TCPServer
